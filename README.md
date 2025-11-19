@@ -1,1 +1,2 @@
-# odin-recipes
+Ola essa é minha primeira tarefa fazendo o curso do Projeto Odin, voltarei assim que concluir essa tarefa para deixar escrito quais as dificuldade que tive e oque aprendi ate o momento da conclusao. 
+Ate mais !!!# odin-recipes
